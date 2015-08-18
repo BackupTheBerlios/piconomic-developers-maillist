@@ -1,0 +1,13 @@
+From Pieter.Conradie at psitek.com  Mon Feb 16 14:27:08 2009
+From: Pieter.Conradie at psitek.com (Pieter Conradie)
+Date: Mon, 16 Feb 2009 15:27:08 +0200
+Subject: [Piconomic-developers] test
+Message-ID: <9095C35E94C6DF41B6298E900A19873719FD96FC6D@pscptsrvexc02.psitek.local>
+
+
+Notice
+This email is intended for the addressee only and may contain legally privileged and/or confidential information.  If you have received this email in error and are not the intended recipient, you are hereby informed that you are not entitled to read, broadcast, distribute or in any manner whatsoever use the contents of this email or any attachments thereto.  You are requested to please notify Psitek that you have received the email and then delete it.  Unless clearly stated otherwise, the content and sentiments expressed in this email or any attachments thereto are those of the sender and not of Psitek (Proprietary) Limited.  Psitek does not accept liability for any damages, loss or expense of any nature whatsoever arising (a) out of or in connection with the email or any attachments thereto and/or (b) from any act or omission by the recipient relying upon the content of the email or attachments.  Psitek further disclaims liability for any damages caused by computer and/or software viruses.  Should this email contain the terms of a contract, no binding agreement will result until such time as a written (hardcopy) document is signed on behalf of Psitek.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/piconomic-developers/attachments/20090216/07c62556/attachment.html>
+

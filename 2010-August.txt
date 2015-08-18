@@ -1,0 +1,31 @@
+From pieterconradie at telkomsa.net  Sat Aug 14 14:11:07 2010
+From: pieterconradie at telkomsa.net (Pieter Conradie)
+Date: Sat, 14 Aug 2010 14:11:07 +0200
+Subject: [Piconomic-developers] Piconomic FWLIB hosting has moved to Google
+	Code; new homepage: http://piconomic.co.za/fwlib/index.html
+Message-ID: <D2830DAD61564A3994A1C484A60891B8@marvin>
+
+Hi everyone!
+
+ 
+
+I have moved the Piconomic FWLIB hosting to Google Code:
+
+http://code.google.com/p/piconomic/
+
+ 
+
+The new home page is:
+
+http://piconomic.co.za/fwlib/index.html
+
+ 
+
+Share and enjoy!
+
+Pieter
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/piconomic-developers/attachments/20100814/b5922496/attachment.html>
+
